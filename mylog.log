@@ -1,0 +1,114 @@
+[2021-01-23T16:45:22.022Z] [com.example.empolyee.EmpolyeeApplication] [main] [13] [INFO ] this is a info message
+[2021-01-23T16:45:22.022Z] [com.example.empolyee.EmpolyeeApplication] [main] [14] [WARN ] this is a warn message
+[2021-01-23T16:45:22.022Z] [com.example.empolyee.EmpolyeeApplication] [main] [15] [ERROR] this is a error message
+[2021-01-23T16:45:23.023Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting EmpolyeeApplication using Java 1.8.0_265 on DESKTOP-A4I43SC with PID 17184 (D:\Spring-Boot\empolyee\target\classes started by Masthan in D:\Spring-Boot\empolyee)
+[2021-01-23T16:45:23.023Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-23T16:45:24.024Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-23T16:45:24.024Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 76 ms. Found 1 JPA repository interfaces.
+[2021-01-23T16:45:26.026Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 9004 (http)
+[2021-01-23T16:45:26.026Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-9004"]
+[2021-01-23T16:45:26.026Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-23T16:45:26.026Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-23T16:45:26.026Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-23T16:45:26.026Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 2699 ms
+[2021-01-23T16:45:26.026Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-23T16:45:26.026Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-23T16:45:27.027Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-23T16:45:27.027Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-23T16:45:27.027Z] [com.zaxxer.hikari.util.DriverDataSource] [main] [70] [WARN ] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[2021-01-23T16:45:28.028Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-23T16:45:28.028Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[2021-01-23T16:45:30.030Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-23T16:45:30.030Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-23T16:45:31.031Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-23T16:45:31.031Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-23T16:45:32.032Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-9004"]
+[2021-01-23T16:45:32.032Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 9004 (http) with context path ''
+[2021-01-23T16:45:32.032Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started EmpolyeeApplication in 9.499 seconds (JVM running for 10.425)
+[2021-01-23T17:15:16.016Z] [com.example.empolyee.EmpolyeeApplication] [main] [14] [INFO ]  EmpolyeeApplication started
+[2021-01-23T17:15:17.017Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting EmpolyeeApplication using Java 1.8.0_265 on DESKTOP-A4I43SC with PID 2568 (D:\Spring-Boot\empolyee\target\classes started by Masthan in D:\Spring-Boot\empolyee)
+[2021-01-23T17:15:17.017Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-23T17:15:19.019Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-23T17:15:19.019Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 75 ms. Found 1 JPA repository interfaces.
+[2021-01-23T17:15:20.020Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 9004 (http)
+[2021-01-23T17:15:20.020Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-9004"]
+[2021-01-23T17:15:20.020Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-23T17:15:20.020Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-23T17:15:21.021Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-23T17:15:21.021Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 3128 ms
+[2021-01-23T17:15:21.021Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-23T17:15:21.021Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-23T17:15:22.022Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-23T17:15:22.022Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-23T17:15:22.022Z] [com.zaxxer.hikari.util.DriverDataSource] [main] [70] [WARN ] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[2021-01-23T17:15:23.023Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-23T17:15:23.023Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[2021-01-23T17:15:27.027Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-23T17:15:27.027Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-23T17:15:28.028Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-23T17:15:28.028Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-23T17:15:29.029Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-9004"]
+[2021-01-23T17:15:29.029Z] [org.springframework.context.support.AbstractApplicationContext] [main] [596] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9004 is already in use
+[2021-01-23T17:15:29.029Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-01-23T17:15:29.029Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [651] [INFO ] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-23T17:15:29.029Z] [com.zaxxer.hikari.HikariDataSource] [main] [350] [INFO ] HikariPool-1 - Shutdown initiated...
+[2021-01-23T17:15:29.029Z] [com.zaxxer.hikari.HikariDataSource] [main] [352] [INFO ] HikariPool-1 - Shutdown completed.
+[2021-01-23T17:15:29.029Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Pausing ProtocolHandler ["http-nio-9004"]
+[2021-01-23T17:15:29.029Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Stopping service [Tomcat]
+[2021-01-23T17:15:29.029Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Stopping ProtocolHandler ["http-nio-9004"]
+[2021-01-23T17:15:29.029Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Destroying ProtocolHandler ["http-nio-9004"]
+[2021-01-23T17:15:29.029Z] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener] [main] [136] [INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2021-01-23T17:15:29.029Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [main] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9004 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9004 or configure this application to listen on another port.
+
+[2021-01-23T17:15:45.045Z] [com.example.empolyee.EmpolyeeApplication] [main] [14] [INFO ]  EmpolyeeApplication started
+[2021-01-23T17:15:46.046Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting EmpolyeeApplication using Java 1.8.0_265 on DESKTOP-A4I43SC with PID 16584 (D:\Spring-Boot\empolyee\target\classes started by Masthan in D:\Spring-Boot\empolyee)
+[2021-01-23T17:15:46.046Z] [org.springframework.boot.SpringApplication] [main] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-01-23T17:15:47.047Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [128] [INFO ] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2021-01-23T17:15:47.047Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [188] [INFO ] Finished Spring Data repository scanning in 101 ms. Found 1 JPA repository interfaces.
+[2021-01-23T17:15:49.049Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 9010 (http)
+[2021-01-23T17:15:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-9010"]
+[2021-01-23T17:15:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2021-01-23T17:15:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.41]
+[2021-01-23T17:15:49.049Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-01-23T17:15:49.049Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [289] [INFO ] Root WebApplicationContext: initialization completed in 2641 ms
+[2021-01-23T17:15:49.049Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2021-01-23T17:15:49.049Z] [org.hibernate.Version] [main] [44] [INFO ] HHH000412: Hibernate ORM core version 5.4.27.Final
+[2021-01-23T17:15:50.050Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [56] [INFO ] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2021-01-23T17:15:50.050Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+[2021-01-23T17:15:50.050Z] [com.zaxxer.hikari.util.DriverDataSource] [main] [70] [WARN ] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[2021-01-23T17:15:50.050Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+[2021-01-23T17:15:50.050Z] [org.hibernate.dialect.Dialect] [main] [175] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[2021-01-23T17:15:52.052Z] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main] [52] [INFO ] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2021-01-23T17:15:52.052Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [437] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2021-01-23T17:15:53.053Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration] [main] [221] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2021-01-23T17:15:53.053Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-01-23T17:15:54.054Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-9010"]
+[2021-01-23T17:15:54.054Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 9010 (http) with context path ''
+[2021-01-23T17:15:54.054Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started EmpolyeeApplication in 8.079 seconds (JVM running for 8.752)
+[2021-01-23T17:16:53.053Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-9004-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-23T17:16:53.053Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-9004-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-23T17:16:53.053Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-9004-exec-1] [547] [INFO ] Completed initialization in 1 ms
+[2021-01-23T17:16:53.053Z] [com.example.empolyee.service.EmpolyeeService] [http-nio-9004-exec-1] [22] [INFO ] DepartmentService ; saveDepartment  Start
+[2021-01-23T17:17:10.010Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-9010-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021-01-23T17:17:10.010Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-9010-exec-2] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021-01-23T17:17:10.010Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-9010-exec-2] [547] [INFO ] Completed initialization in 3 ms
+[2021-01-23T17:17:11.011Z] [com.example.empolyee.controller.EmpolyeeController] [http-nio-9010-exec-2] [28] [INFO ]  EmpolyeeController saveEmpolyee Start
+[2021-01-23T17:17:11.011Z] [com.example.empolyee.service.EmpolyeeService] [http-nio-9010-exec-2] [20] [INFO ]  EmpolyeeService saveEmpolyee Start
+[2021-01-23T17:17:31.031Z] [com.example.empolyee.controller.EmpolyeeController] [http-nio-9010-exec-3] [42] [INFO ] EmpolyeeController findDepartmentById Start
+[2021-01-23T17:17:31.031Z] [com.example.empolyee.service.EmpolyeeService] [http-nio-9010-exec-3] [30] [INFO ]  EmpolyeeService findEmpolyeeById Start
+[2021-01-23T17:17:45.045Z] [com.example.empolyee.controller.EmpolyeeController] [http-nio-9010-exec-6] [35] [INFO ]  EmpolyeeController updateEmpolyee Start
+[2021-01-23T17:17:45.045Z] [com.example.empolyee.service.EmpolyeeService] [http-nio-9010-exec-6] [25] [INFO ]  EmpolyeeService saveOrUpdate Start
